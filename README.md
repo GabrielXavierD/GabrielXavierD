@@ -9,17 +9,14 @@
            <img align="center" alt="GabrielXavierD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
            <img align="center" alt="GabrielXavierD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-<br>
-<div style="display: inline_block">
+
+##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)
-      <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<div>
 <br>
 
-
-
-         
+##        
           
 <div> 
 
