@@ -10,7 +10,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div> 
