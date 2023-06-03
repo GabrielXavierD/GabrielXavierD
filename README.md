@@ -13,6 +13,8 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
 
 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div> 
 
   <a href="https://www.instagram.com/gabrielxavier._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
