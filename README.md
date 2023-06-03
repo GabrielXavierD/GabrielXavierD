@@ -10,13 +10,11 @@
            <img align="center" alt="GabrielXavierD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: inline_block">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)
+      <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
 <br>
 
 
@@ -34,6 +32,8 @@
 
 
 <!---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&theme=transparent)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
 
 GabrielXavierD/GabrielXavierD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
