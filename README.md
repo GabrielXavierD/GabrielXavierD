@@ -12,7 +12,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true&&include_all_commits)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
