@@ -1,8 +1,6 @@
 ## Olá! Sou o @GabrielXavierD
       
-<div style="display: inline_block"><br>
-           <img align="center" alt="GabrielXavierD-CamtasiaStudio" height="30" width="30" src="https://library.techsmith.com/static/images/logo-camtasia-medium.png"/>     
-           <img align="center" alt="GabrielXavierD-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />         
+<div style="display: inline_block"><br>    
            <img align="center" alt="GabrielXavierD-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">
            <img align="center" alt="GabrielXavierD-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
            <img align="center" alt="GabrielXavierD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
