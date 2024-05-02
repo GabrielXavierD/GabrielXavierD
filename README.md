@@ -15,8 +15,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielXavierD&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielXavierD" /> </p>
-![Metrics](https://metrics.lecoq.io/GabrielXavierD?template=classic&lines=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=16&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-<div> 
+
 
 
   <a href="https://www.instagram.com/gabrielxavier._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,7 +24,6 @@
   
 </div>
 
-![Metrics (https://metrics.lecoq.io/GabrielXavierDtemplate=classic&lines=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=16&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 <!---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&theme=transparent)
@@ -36,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contate-me no email: gabrielxavierdominguess@gmail.com
+- 📫 Contate-me no email: 
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 --->
