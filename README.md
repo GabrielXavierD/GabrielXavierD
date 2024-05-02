@@ -15,11 +15,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielXavierD&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielXavierD" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GabrielXavierD&rank=S" /></a> </p>
-
-
+![Metrics](https://metrics.lecoq.io/GabrielXavierD?template=classic&lines=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=16&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 <div> 
 
 
