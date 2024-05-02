@@ -16,6 +16,8 @@
 
 ![](https://github.com/GabrielXavierD/GabrielXavierD/blob/master/generated/overview.svg)
 ![](https://github.com/GabrielXavierD/GabrielXavierD/blob/master/generated/languages.svg)
+[![GabrielXavierD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ##        
