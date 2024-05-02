@@ -14,8 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielXavierD&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielXavierD" /> </p>
+arted,discussions_answered,prs_merged,prs_merged_percentage)
 <div> 
 
   <a href="https://www.instagram.com/gabrielxavier._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
