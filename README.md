@@ -18,6 +18,16 @@
 ![](https://github.com/GabrielXavierD/GabrielXavierD/blob/master/generated/languages.svg)
 [![GabrielXavierD's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD)](https://github.com/anuraghazra/github-readme-stats)
 
+# Meu Perfil GitHub
+
+Olá! Eu sou GabrielXavierD. 😊
+
+Você pode conferir algumas estatísticas interessantes sobre meus repositórios abaixo:
+
+![Overview](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![Languages](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
+Se quiser saber mais sobre mim, não hesite em visitar meu perfil [aqui](https://github.com/GabrielXavierD).
 
 
 ##        
