@@ -9,8 +9,11 @@
 </div>
 
 ##
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true&include_all_commits=true&hide_rank=true)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielXavierD&show_icons=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielXavierD&layout=compact&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielXavierD&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielXavierD" /> </p>
