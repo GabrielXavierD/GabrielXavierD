@@ -1,5 +1,3 @@
-## Olá! Sou o @GabrielXavierD
-      
 <div style="display: inline_block"><br>    
            <img align="center" alt="GabrielXavierD-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg">
            <img align="center" alt="GabrielXavierD-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
